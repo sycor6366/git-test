@@ -1,1 +1,1 @@
-a = 'fdsafdasfasdf'
+print(111)
