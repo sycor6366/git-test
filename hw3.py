@@ -1,1 +1,1 @@
-fdasfadsf
+print('test')
